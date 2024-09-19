@@ -157,6 +157,14 @@ print(name)! //Luke
 const const name<-1> = "Luke"!
 ```
 
+If you want, you can use ± to make it hoistable and normal!
+
+```java
+print(name)
+var var name<±Infinity> = "Lu" // this happens anywhere only for you
+print(name)
+```
+
 ## Loops
 
 Loops are a complicated relic of archaic programming languages. In DreamBerd, there are no loops.
